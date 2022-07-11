@@ -140,23 +140,29 @@ Results of analysis:
  
 ## Deliverable 3: Analysis of Election Audit 
  
- 3:1  overview of election audit
+           3:1  overview of election audi
+    The purpose of this election audit analysis: 
+    The Colorado Board election employee has given us the following task to complete the election audit of the recent localcongressional election to 
+    calculate the number of votes cast, complete lists of candidates who received votes, the total number of votes each candidate received, 
+    percentage of votes each candidate won andthe winner of the election. Election audit those verified election results and ensure voting machine 
+    functioned properly. For this audit purpose, we want to go over    the steps required in detail. 
+    showing you a technique commonly used by programmers to write steps of their code, which is called pseudocode. Pseudocode will make the audit easier to
+    present to non-technical colleagues and stakeholders.
     
-    The purpose of this election audit analysis: The Colorado Board election employee has given us the following task to complete the election audit of the recent local congressional election to calculate the total number of votes cast, complete lists of candidates who received votes, the total number of votes each candidate received, percentage of votes each candidate won and the winner of the election. Election audit those verified election results and ensure voting machine functioned properly. For this audit purpose, we want to go over the steps required in detail. showing you a technique commonly used by programmers to write steps of their code, which is called pseudocode. Pseudocode will make the audit easier to present to non-technical colleagues and stakeholders.
-    
- 3:2) Election Audit results:
+        3:2) Election Audit results:
  
- 	How many votes were cast in this congressional election? Provide a breakdown of the number of votes and the percentage of total votes for each county in the  precinct.
+	How many votes were cast in this congressional election? Provide a breakdown of the number of votes and the percentage of total votes for each
+	county in the precinct.
    
-   The total votes cast in this congressional election was 369,711
+  The total votes cast in this congressional election was 369,711
    
-  Jefferson County has a 10.5% total percent, and the total number of votes was 38,855 from the total votes of 369,711.
+    Jefferson County has a 10.5% total percent, and the total number of votes was 38,855 from the total votes of 369,711.
   
-  Denver County has an 82.8% total percent, and the total number of votes was 306,055 from the total votes of 369,711.
+    Denver County has an 82.8% total percent, and the total number of votes was 306,055 from the total votes of 369,711.
   
-  Denver County has a 6.7% total percent, and the total number of votes was 24,801 from the total votes of 369,711.
+    Denver County has a 6.7% total percent, and the total number of votes was 24,801 from the total votes of 369,711.
   
-      Which county had the largest number of votes? Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+  Which county had the largest number of votes? Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
         
         Denver county has the largest number of votes at 306,055 and it has an 82.8% percentage of the total votes.
         
