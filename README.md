@@ -147,8 +147,9 @@ A Colorado Board of elections dataset employee has given you the following task 
     The purpose of this election audit analysis: 
     The Colorado Board election employee has given us the following task to complete the election audit of the recent localcongressional election to 
     calculate the number of votes cast, complete lists of candidates who received votes, the total number of votes each candidate received, 
-    percentage of votes each candidate won andthe winner of the election. For this audit purpose, we want to go over the steps required in detail. 
-    showing you a technique commonly used by programmers to write steps of their code, which is called pseudocode. Pseudocode will make the audit easier to
+    percentage of votes each candidate won andthe winner of the election.Election audit those verified election results and ensure voting machine 
+    functioned properly. For this audit purpose, we want to go over the steps required in detail. showing you a technique commonly used by programmers to 
+    write steps of their code, which is called pseudocode. Pseudocode will make the audit easier to
     present to non-technical colleagues and stakeholders.
     
         3:2) Election Audit results:
