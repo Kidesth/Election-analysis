@@ -143,7 +143,7 @@ A Colorado Board of elections dataset employee has given you the following task 
  ## Deliverable 3:
  ### Analysis of Election Audit 
  
-         3:1  overview of election audi
+   #### 3:1  overview of election audi
     The purpose of this election audit analysis: 
     The Colorado Board election employee has given us the following task to complete the election audit of the recent localcongressional election to 
     calculate the number of votes cast, complete lists of candidates who received votes, the total number of votes each candidate received, 
@@ -152,10 +152,10 @@ A Colorado Board of elections dataset employee has given you the following task 
     write steps of their code, which is called pseudocode. Pseudocode will make the audit easier to
     present to non-technical colleagues and stakeholders.
     
-        3:2) Election Audit results:
+   #### 3:2) Election Audit results:
  
-	How many votes were cast in this congressional election? Provide a breakdown of the number of votes and the percentage of total votes for each
-	county in the precinct.
+  - **How many votes were cast in this congressional election? Provide a breakdown of the number of votes and the percentage of total votes for each
+**	county in the precinct.
    
       The total votes cast in this congressional election was 369,711
    
@@ -165,7 +165,7 @@ A Colorado Board of elections dataset employee has given you the following task 
   
       Denver County has a 6.7% total percent, and the total number of votes was 24,801 from the total votes of 369,711.
   
-  Which county had the largest number of votes? Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+  - **Which county had the largest number of votes? Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.**
         
         Denver county has the largest number of votes at 306,055 and it has an 82.8% percentage of the total votes.
         
@@ -177,13 +177,13 @@ A Colorado Board of elections dataset employee has given you the following task 
         
         Raymon Anthony Doane candidate has 3.1% percent of the total votes and has (11,606) number of votes.
         
-    Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+   -**Which candidate won the election, what was their vote count, and what was their percentage of the total votes?**
     
         Diana DeGette won the election, and she has 272,892 votes and she got 73.8% percent votes form the total votes.
         
         Diana DeGette is the winner.
 	
-		3:3 Election audit Summary
+   #### 3:3 Election audit Summary
 		
        The election audit’s purpose is to determine whether the votes were counted properly, or the proper procedure was followed for the election. 
     We want to show a technique commonly used by programmers to write steps of their code, which is called pseudocode. The statements of the proposal
