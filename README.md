@@ -1,4 +1,4 @@
-      ## Creat  Election analysis “PyPoll” with Python
+ ## Creat  Election analysis “PyPoll” with Python
 
 # Overview of the project
 
@@ -75,7 +75,7 @@ A Colorado Board of elections dataset employee has given you the following task 
 ![Image # 4 winnig county](https://user-images.githubusercontent.com/107454933/178176594-58b1a326-8143-47ef-9c4a-93c5dabeb629.png)
 ##### Image# 4, VSC code and terminal printed
  
-      ## Deliverable 2:1 Election candidate result saved to an Election_Analysis.txt file
+  ## Deliverable 2:1 Election candidate result saved to an Election_Analysis.txt file
   
      The total votes in the election are Total votes: 369,711 saved on the Election _Analysis.txt file
 
@@ -100,7 +100,7 @@ A Colorado Board of elections dataset employee has given you the following task 
    ![Election analysis image 5 and 6](https://user-images.githubusercontent.com/107454933/178177553-2f984bd3-b55f-4c78-86e6-111383f1c158.png)
   ##### Image# 5 Eletion_Anylsis.txt file saved
 
-      ## Deliverable 2:2 Election County result saved to an Election_Analysis.txt file
+ ## Deliverable 2:2 Election County result saved to an Election_Analysis.txt file
 
  	  Each county and its total vote are saved in the Election_Analysis.txt file.
   
@@ -133,14 +133,13 @@ A Colorado Board of elections dataset employee has given you the following task 
 ![Election analysis image 5 and 6](https://user-images.githubusercontent.com/107454933/178179219-addfbd41-9e58-4bf1-bb58-07e8acc2688e.png)
 ##### Image# 6 Eletion_Anylsis.txt file saved
  
-    ## Deliverable 3: Analysis of Election Audit 
+ ## Deliverable 3: Analysis of Election Audit 
  
-           3:1  overview of election audi
+         3:1  overview of election audi
     The purpose of this election audit analysis: 
     The Colorado Board election employee has given us the following task to complete the election audit of the recent localcongressional election to 
     calculate the number of votes cast, complete lists of candidates who received votes, the total number of votes each candidate received, 
-    percentage of votes each candidate won andthe winner of the election. Election audit those verified election results and ensure voting machine 
-    functioned properly. For this audit purpose, we want to go over the steps required in detail. 
+    percentage of votes each candidate won andthe winner of the election. For this audit purpose, we want to go over the steps required in detail. 
     showing you a technique commonly used by programmers to write steps of their code, which is called pseudocode. Pseudocode will make the audit easier to
     present to non-technical colleagues and stakeholders.
     
@@ -174,3 +173,6 @@ A Colorado Board of elections dataset employee has given you the following task 
         Diana DeGette won the election, and she has 272,892 votes and she got 73.8% percent votes form the total votes.
         
         Diana DeGette is the winner.
+	
+		3:3 Election audit Summary
+	
