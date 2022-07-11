@@ -184,4 +184,9 @@ A Colorado Board of elections dataset employee has given you the following task 
         Diana DeGette is the winner.
 	
 		3:3 Election audit Summary
+		
+       The election audit’s purpose is to determine whether the votes were counted properly, or the proper procedure was followed for the election. 
+    We want to show a technique commonly used by programmers to write steps of their code, which is called pseudocode. The statements of the proposal
+    script are used to analyze an election in a short time, provide accurate data, and save a lot of time and can be modified by adding election 
+    program cost to better control the cost.
 	
