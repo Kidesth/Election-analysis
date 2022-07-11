@@ -21,7 +21,8 @@ A Colorado Board of elections dataset employee has given you the following task 
    the winner of the election based on popular vote.
 
 
-  ## Deliverable 1a: candidate results:
+  ## Deliverable 1a: 
+  ### candidate results:
 
  Requirements
  
@@ -44,21 +45,25 @@ A Colorado Board of elections dataset employee has given you the following task 
      
     The total candidate of votes: 
       
-    Charles Casper Stockholm: 23.0% (85,213)
+       Charles Casper Stockholm: 23.0% (85,213)
+    
 	  Diana DeGette: 73.8% (272,892)
+	  
 	  Raymon Anthony Doane: 3.1% (11,606)
+	  
 ![candidates votes D1 2 Image](https://user-images.githubusercontent.com/107454933/178174163-53649492-0350-4d35-bac3-cdedf8b1106b.png)
 ###### Image# 2  VSC code and terminal printed  
 
 3.	The winner of the election, winning vote count, and winning percentage is printed on the terminal
-    The winner of the election is: Diana DeGette
+        The winner of the election is: Diana DeGette
   	The winning vote count: 272,892
   	The winning percentage: 73.8%
     
 ![The winner of the election D1 3](https://user-images.githubusercontent.com/107454933/178175341-603dbbbc-b63e-47b6-9227-b2fa1cda2893.png)
 ##### Image# 3 VSC code and terminal printed
    
-   ## Deliverable 1b: county results
+   ## Deliverable 1b: 
+   ### county results
 
    1) Each county and its total vote count,
    2) each county its percentage, and the total vote are printed on the terminal.
@@ -75,13 +80,14 @@ A Colorado Board of elections dataset employee has given you the following task 
 ![Image # 4 winnig county](https://user-images.githubusercontent.com/107454933/178176594-58b1a326-8143-47ef-9c4a-93c5dabeb629.png)
 ##### Image# 4, VSC code and terminal printed
  
-  ## Deliverable 2:1 Election candidate result saved to an Election_Analysis.txt file
+  ## Deliverable 2:1 
+  ### Election candidate result saved to an Election_Analysis.txt file
   
      The total votes in the election are Total votes: 369,711 saved on the Election _Analysis.txt file
 
      Each candidate’s its total votes and percentage of votes are saved on the Election_Analysis.txt file.
       
-        candidate percentage of the votes: 
+       candidate percentage of the votes: 
       
                Charles Casper Stockham: 23.0% 
         
@@ -100,7 +106,8 @@ A Colorado Board of elections dataset employee has given you the following task 
    ![Election analysis image 5 and 6](https://user-images.githubusercontent.com/107454933/178177553-2f984bd3-b55f-4c78-86e6-111383f1c158.png)
   ##### Image# 5 Eletion_Anylsis.txt file saved
 
- ## Deliverable 2:2 Election County result saved to an Election_Analysis.txt file
+ ## Deliverable 2:2
+ ### Election County result saved to an Election_Analysis.txt file
 
  	  Each county and its total vote are saved in the Election_Analysis.txt file.
   
@@ -133,7 +140,8 @@ A Colorado Board of elections dataset employee has given you the following task 
 ![Election analysis image 5 and 6](https://user-images.githubusercontent.com/107454933/178179219-addfbd41-9e58-4bf1-bb58-07e8acc2688e.png)
 ##### Image# 6 Eletion_Anylsis.txt file saved
  
- ## Deliverable 3: Analysis of Election Audit 
+ ## Deliverable 3:
+ ### Analysis of Election Audit 
  
          3:1  overview of election audi
     The purpose of this election audit analysis: 
